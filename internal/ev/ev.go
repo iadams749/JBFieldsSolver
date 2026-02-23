@@ -20,6 +20,17 @@ func (t *Table) EV(cs game.CategorySet) float64 {
 	return t.ev[cs]
 }
 
+// SetEV sets the expected value for a given category set index.
+// Used by the WASM build to load the table from JSON passed via JS.
+func (t *Table) SetEV(cs uint16, val float64) {
+	t.ev[cs] = val
+}
+
+// NewTable returns an empty EV table.
+func NewTable() *Table {
+	return &Table{}
+}
+
 // Compute builds the full EV table using bottom-up dynamic programming.
 // It processes subsets of increasing size: all 1-category subsets first,
 // then 2-category subsets (using the 1-category results), up to all 9.
