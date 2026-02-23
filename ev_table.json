@@ -1,0 +1,5372 @@
+[
+  {
+    "category_set": 1,
+    "categories": [
+      "Jumbleberry"
+    ],
+    "ev": 6.570000000000004
+  },
+  {
+    "category_set": 2,
+    "categories": [
+      "Sugarberry"
+    ],
+    "ev": 6.570000000000001
+  },
+  {
+    "category_set": 3,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry"
+    ],
+    "ev": 13.91896885796353
+  },
+  {
+    "category_set": 4,
+    "categories": [
+      "Pickleberry"
+    ],
+    "ev": 9.760000000000002
+  },
+  {
+    "category_set": 5,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry"
+    ],
+    "ev": 17.73929969016019
+  },
+  {
+    "category_set": 6,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry"
+    ],
+    "ev": 17.73929969016019
+  },
+  {
+    "category_set": 7,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry"
+    ],
+    "ev": 25.7763747836837
+  },
+  {
+    "category_set": 8,
+    "categories": [
+      "Moonberry"
+    ],
+    "ev": 9.485000000000003
+  },
+  {
+    "category_set": 9,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry"
+    ],
+    "ev": 18.27991230549839
+  },
+  {
+    "category_set": 10,
+    "categories": [
+      "Sugarberry",
+      "Moonberry"
+    ],
+    "ev": 18.27991230549838
+  },
+  {
+    "category_set": 11,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry"
+    ],
+    "ev": 26.87950466404238
+  },
+  {
+    "category_set": 12,
+    "categories": [
+      "Pickleberry",
+      "Moonberry"
+    ],
+    "ev": 21.98043673959935
+  },
+  {
+    "category_set": 13,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry"
+    ],
+    "ev": 30.96176738022994
+  },
+  {
+    "category_set": 14,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry"
+    ],
+    "ev": 30.961767380229922
+  },
+  {
+    "category_set": 15,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry"
+    ],
+    "ev": 39.79752568977566
+  },
+  {
+    "category_set": 16,
+    "categories": [
+      "Basket of Three"
+    ],
+    "ev": 13.770113725216403
+  },
+  {
+    "category_set": 17,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three"
+    ],
+    "ev": 22.63354011085209
+  },
+  {
+    "category_set": 18,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three"
+    ],
+    "ev": 22.63354011085208
+  },
+  {
+    "category_set": 19,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three"
+    ],
+    "ev": 31.15131068904339
+  },
+  {
+    "category_set": 20,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three"
+    ],
+    "ev": 25.88696603874515
+  },
+  {
+    "category_set": 21,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three"
+    ],
+    "ev": 35.01069151149356
+  },
+  {
+    "category_set": 22,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three"
+    ],
+    "ev": 35.01069151149357
+  },
+  {
+    "category_set": 23,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three"
+    ],
+    "ev": 43.828002940297225
+  },
+  {
+    "category_set": 24,
+    "categories": [
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 26.345235851653044
+  },
+  {
+    "category_set": 25,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 35.9095678968466
+  },
+  {
+    "category_set": 26,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 35.90956789684658
+  },
+  {
+    "category_set": 27,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 45.04432128334968
+  },
+  {
+    "category_set": 28,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 39.63741395873693
+  },
+  {
+    "category_set": 29,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 49.23509783931211
+  },
+  {
+    "category_set": 30,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 49.23509783931212
+  },
+  {
+    "category_set": 31,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three"
+    ],
+    "ev": 58.52725771607967
+  },
+  {
+    "category_set": 32,
+    "categories": [
+      "Basket of Four"
+    ],
+    "ev": 7.262727726037004
+  },
+  {
+    "category_set": 33,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four"
+    ],
+    "ev": 15.829661645596785
+  },
+  {
+    "category_set": 34,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four"
+    ],
+    "ev": 15.82966164559678
+  },
+  {
+    "category_set": 35,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four"
+    ],
+    "ev": 24.389002566431603
+  },
+  {
+    "category_set": 36,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four"
+    ],
+    "ev": 19.29162709856818
+  },
+  {
+    "category_set": 37,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four"
+    ],
+    "ev": 28.389574458209268
+  },
+  {
+    "category_set": 38,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four"
+    ],
+    "ev": 28.389574458209268
+  },
+  {
+    "category_set": 39,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four"
+    ],
+    "ev": 37.27156819160481
+  },
+  {
+    "category_set": 40,
+    "categories": [
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 19.727278358722067
+  },
+  {
+    "category_set": 41,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 29.33661207715188
+  },
+  {
+    "category_set": 42,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 29.336612077151866
+  },
+  {
+    "category_set": 43,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 38.68790451962798
+  },
+  {
+    "category_set": 44,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 33.17258183263066
+  },
+  {
+    "category_set": 45,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 42.867821475431754
+  },
+  {
+    "category_set": 46,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 42.86782147543176
+  },
+  {
+    "category_set": 47,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four"
+    ],
+    "ev": 52.334989633365765
+  },
+  {
+    "category_set": 48,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 24.394085194585102
+  },
+  {
+    "category_set": 49,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 34.04820515324837
+  },
+  {
+    "category_set": 50,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 34.04820515324834
+  },
+  {
+    "category_set": 51,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 43.297547044286816
+  },
+  {
+    "category_set": 52,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 37.39346684216124
+  },
+  {
+    "category_set": 53,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 47.10107053889736
+  },
+  {
+    "category_set": 54,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 47.10107053889736
+  },
+  {
+    "category_set": 55,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 56.497203844932194
+  },
+  {
+    "category_set": 56,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 38.387591915542025
+  },
+  {
+    "category_set": 57,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 48.43969192656141
+  },
+  {
+    "category_set": 58,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 48.43969192656139
+  },
+  {
+    "category_set": 59,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 58.145762348087764
+  },
+  {
+    "category_set": 60,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 52.16842898218205
+  },
+  {
+    "category_set": 61,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 62.203694051791935
+  },
+  {
+    "category_set": 62,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 62.20369405179192
+  },
+  {
+    "category_set": 63,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four"
+    ],
+    "ev": 71.95701623267392
+  },
+  {
+    "category_set": 64,
+    "categories": [
+      "Basket of Five"
+    ],
+    "ev": 1.9752578223976616
+  },
+  {
+    "category_set": 65,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Five"
+    ],
+    "ev": 9.675829920311878
+  },
+  {
+    "category_set": 66,
+    "categories": [
+      "Sugarberry",
+      "Basket of Five"
+    ],
+    "ev": 9.675829920311878
+  },
+  {
+    "category_set": 67,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Five"
+    ],
+    "ev": 17.868548285062893
+  },
+  {
+    "category_set": 68,
+    "categories": [
+      "Pickleberry",
+      "Basket of Five"
+    ],
+    "ev": 13.313635574980346
+  },
+  {
+    "category_set": 69,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Five"
+    ],
+    "ev": 21.847848317983193
+  },
+  {
+    "category_set": 70,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five"
+    ],
+    "ev": 21.847848317983185
+  },
+  {
+    "category_set": 71,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five"
+    ],
+    "ev": 30.579719086717056
+  },
+  {
+    "category_set": 72,
+    "categories": [
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 13.75175591050837
+  },
+  {
+    "category_set": 73,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 22.837395279214725
+  },
+  {
+    "category_set": 74,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 22.837395279214718
+  },
+  {
+    "category_set": 75,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 31.91756462454602
+  },
+  {
+    "category_set": 76,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 26.757545629924014
+  },
+  {
+    "category_set": 77,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 36.089921391865225
+  },
+  {
+    "category_set": 78,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 36.08992139186522
+  },
+  {
+    "category_set": 79,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five"
+    ],
+    "ev": 45.42786692267819
+  },
+  {
+    "category_set": 80,
+    "categories": [
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 18.86478703361966
+  },
+  {
+    "category_set": 81,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 27.641255156456193
+  },
+  {
+    "category_set": 82,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 27.641255156456197
+  },
+  {
+    "category_set": 83,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 36.548249850357095
+  },
+  {
+    "category_set": 84,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 31.15097178264817
+  },
+  {
+    "category_set": 85,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 40.34436814181377
+  },
+  {
+    "category_set": 86,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 40.34436814181377
+  },
+  {
+    "category_set": 87,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 49.58621775969569
+  },
+  {
+    "category_set": 88,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 31.990350223088853
+  },
+  {
+    "category_set": 89,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 41.580573915702416
+  },
+  {
+    "category_set": 90,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 41.5805739157024
+  },
+  {
+    "category_set": 91,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 51.07766321788307
+  },
+  {
+    "category_set": 92,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 45.37674062910156
+  },
+  {
+    "category_set": 93,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 55.12917734768717
+  },
+  {
+    "category_set": 94,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 55.12917734768715
+  },
+  {
+    "category_set": 95,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five"
+    ],
+    "ev": 64.8044267275264
+  },
+  {
+    "category_set": 96,
+    "categories": [
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 12.19735384667477
+  },
+  {
+    "category_set": 97,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 20.905068054933256
+  },
+  {
+    "category_set": 98,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 20.905068054933253
+  },
+  {
+    "category_set": 99,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 29.754342758936115
+  },
+  {
+    "category_set": 100,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 24.77801222575261
+  },
+  {
+    "category_set": 101,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 33.92548246292817
+  },
+  {
+    "category_set": 102,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 33.92548246292815
+  },
+  {
+    "category_set": 103,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 43.10951263717096
+  },
+  {
+    "category_set": 104,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 25.67996836953007
+  },
+  {
+    "category_set": 105,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 35.25238667622227
+  },
+  {
+    "category_set": 106,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 35.25238667622227
+  },
+  {
+    "category_set": 107,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 44.748960843824534
+  },
+  {
+    "category_set": 108,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 39.32737767552328
+  },
+  {
+    "category_set": 109,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 49.05543517172871
+  },
+  {
+    "category_set": 110,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 49.05543517172871
+  },
+  {
+    "category_set": 111,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 58.71732628808191
+  },
+  {
+    "category_set": 112,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 30.868325317740663
+  },
+  {
+    "category_set": 113,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 40.23571462307789
+  },
+  {
+    "category_set": 114,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 40.23571462307788
+  },
+  {
+    "category_set": 115,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 49.56290377699882
+  },
+  {
+    "category_set": 116,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 43.88843344886695
+  },
+  {
+    "category_set": 117,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 53.45458516200189
+  },
+  {
+    "category_set": 118,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 53.454585162001884
+  },
+  {
+    "category_set": 119,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 62.98504611171047
+  },
+  {
+    "category_set": 120,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 45.16834339376732
+  },
+  {
+    "category_set": 121,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 55.0879360604417
+  },
+  {
+    "category_set": 122,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 55.08793606044169
+  },
+  {
+    "category_set": 123,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 64.86442635217423
+  },
+  {
+    "category_set": 124,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 58.949718707856356
+  },
+  {
+    "category_set": 125,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 68.9347948270196
+  },
+  {
+    "category_set": 126,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 68.93479482701957
+  },
+  {
+    "category_set": 127,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five"
+    ],
+    "ev": 78.8271774288217
+  },
+  {
+    "category_set": 128,
+    "categories": [
+      "Mixed Basket"
+    ],
+    "ev": 9.42019060032072
+  },
+  {
+    "category_set": 129,
+    "categories": [
+      "Jumbleberry",
+      "Mixed Basket"
+    ],
+    "ev": 19.286144429238696
+  },
+  {
+    "category_set": 130,
+    "categories": [
+      "Sugarberry",
+      "Mixed Basket"
+    ],
+    "ev": 19.286144429238696
+  },
+  {
+    "category_set": 131,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Mixed Basket"
+    ],
+    "ev": 28.44850299010584
+  },
+  {
+    "category_set": 132,
+    "categories": [
+      "Pickleberry",
+      "Mixed Basket"
+    ],
+    "ev": 22.834889702471784
+  },
+  {
+    "category_set": 133,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Mixed Basket"
+    ],
+    "ev": 32.65958817215058
+  },
+  {
+    "category_set": 134,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Mixed Basket"
+    ],
+    "ev": 32.65958817215058
+  },
+  {
+    "category_set": 135,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Mixed Basket"
+    ],
+    "ev": 41.80378274385181
+  },
+  {
+    "category_set": 136,
+    "categories": [
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 21.981353158823076
+  },
+  {
+    "category_set": 137,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 32.98915853279554
+  },
+  {
+    "category_set": 138,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 32.98915853279555
+  },
+  {
+    "category_set": 139,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 42.89571604502058
+  },
+  {
+    "category_set": 140,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 37.06200738726946
+  },
+  {
+    "category_set": 141,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 47.3614388055375
+  },
+  {
+    "category_set": 142,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 47.36143880553752
+  },
+  {
+    "category_set": 143,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket"
+    ],
+    "ev": 57.00363378480306
+  },
+  {
+    "category_set": 144,
+    "categories": [
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 27.001378560700743
+  },
+  {
+    "category_set": 145,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 37.6230643088719
+  },
+  {
+    "category_set": 146,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 37.623064308871896
+  },
+  {
+    "category_set": 147,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 47.28647404084429
+  },
+  {
+    "category_set": 148,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 41.32013332454982
+  },
+  {
+    "category_set": 149,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 51.59409092987551
+  },
+  {
+    "category_set": 150,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 51.59409092987551
+  },
+  {
+    "category_set": 151,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 61.187927945160745
+  },
+  {
+    "category_set": 152,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 41.09330703538258
+  },
+  {
+    "category_set": 153,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 52.09530302653444
+  },
+  {
+    "category_set": 154,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 52.09530302653443
+  },
+  {
+    "category_set": 155,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 62.09776644581726
+  },
+  {
+    "category_set": 156,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 56.196247655426944
+  },
+  {
+    "category_set": 157,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 66.69528283511434
+  },
+  {
+    "category_set": 158,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 66.69528283511436
+  },
+  {
+    "category_set": 159,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket"
+    ],
+    "ev": 76.58918226817013
+  },
+  {
+    "category_set": 160,
+    "categories": [
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 19.609719522041896
+  },
+  {
+    "category_set": 161,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 30.176377977699975
+  },
+  {
+    "category_set": 162,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 30.176377977699968
+  },
+  {
+    "category_set": 163,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 40.030152467300915
+  },
+  {
+    "category_set": 164,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 34.0498516375766
+  },
+  {
+    "category_set": 165,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 44.40518153548539
+  },
+  {
+    "category_set": 166,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 44.40518153548541
+  },
+  {
+    "category_set": 167,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 54.114021871160006
+  },
+  {
+    "category_set": 168,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 34.0671635267389
+  },
+  {
+    "category_set": 169,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 45.18616884853135
+  },
+  {
+    "category_set": 170,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 45.18616884853134
+  },
+  {
+    "category_set": 171,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 55.487615564779404
+  },
+  {
+    "category_set": 172,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 49.526674976277675
+  },
+  {
+    "category_set": 173,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 60.14904625717446
+  },
+  {
+    "category_set": 174,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 60.14904625717447
+  },
+  {
+    "category_set": 175,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 70.19126119117821
+  },
+  {
+    "category_set": 176,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 39.25131363468263
+  },
+  {
+    "category_set": 177,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 50.19633545443122
+  },
+  {
+    "category_set": 178,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 50.196335454431235
+  },
+  {
+    "category_set": 179,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 60.37388978561348
+  },
+  {
+    "category_set": 180,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 53.98065604977054
+  },
+  {
+    "category_set": 181,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 64.53800379008342
+  },
+  {
+    "category_set": 182,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 64.53800379008342
+  },
+  {
+    "category_set": 183,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 74.53533983909493
+  },
+  {
+    "category_set": 184,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 54.40097185297383
+  },
+  {
+    "category_set": 185,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 65.56740465276253
+  },
+  {
+    "category_set": 186,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 65.5674046527625
+  },
+  {
+    "category_set": 187,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 75.96378126903794
+  },
+  {
+    "category_set": 188,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 69.6449222462408
+  },
+  {
+    "category_set": 189,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 80.39130472346137
+  },
+  {
+    "category_set": 190,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 80.39130472346139
+  },
+  {
+    "category_set": 191,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket"
+    ],
+    "ev": 90.62028046836828
+  },
+  {
+    "category_set": 192,
+    "categories": [
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 15.192420885396341
+  },
+  {
+    "category_set": 193,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 24.590303128604337
+  },
+  {
+    "category_set": 194,
+    "categories": [
+      "Sugarberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 24.590303128604347
+  },
+  {
+    "category_set": 195,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 33.833364140858734
+  },
+  {
+    "category_set": 196,
+    "categories": [
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 28.68607717552736
+  },
+  {
+    "category_set": 197,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 38.17891577237372
+  },
+  {
+    "category_set": 198,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 38.17891577237371
+  },
+  {
+    "category_set": 199,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 47.55101297595287
+  },
+  {
+    "category_set": 200,
+    "categories": [
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 28.695953034012504
+  },
+  {
+    "category_set": 201,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 39.032670783356714
+  },
+  {
+    "category_set": 202,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 39.032670783356714
+  },
+  {
+    "category_set": 203,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 48.94251718821682
+  },
+  {
+    "category_set": 204,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 43.406646551889054
+  },
+  {
+    "category_set": 205,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 53.49968791079915
+  },
+  {
+    "category_set": 206,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 53.49968791079917
+  },
+  {
+    "category_set": 207,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 63.35037094090318
+  },
+  {
+    "category_set": 208,
+    "categories": [
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 34.167017628063924
+  },
+  {
+    "category_set": 209,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 44.04684859315286
+  },
+  {
+    "category_set": 210,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 44.046848593152866
+  },
+  {
+    "category_set": 211,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 53.67421714164444
+  },
+  {
+    "category_set": 212,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 48.05448146780645
+  },
+  {
+    "category_set": 213,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 57.95801687187222
+  },
+  {
+    "category_set": 214,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 57.95801687187222
+  },
+  {
+    "category_set": 215,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 67.68411117566484
+  },
+  {
+    "category_set": 216,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 48.395847584425084
+  },
+  {
+    "category_set": 217,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 58.81566670639396
+  },
+  {
+    "category_set": 218,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 58.81566670639396
+  },
+  {
+    "category_set": 219,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 68.90163744244238
+  },
+  {
+    "category_set": 220,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 63.05445919085587
+  },
+  {
+    "category_set": 221,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 73.38298587538195
+  },
+  {
+    "category_set": 222,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 73.38298587538195
+  },
+  {
+    "category_set": 223,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 83.48364476017593
+  },
+  {
+    "category_set": 224,
+    "categories": [
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 26.825626920330187
+  },
+  {
+    "category_set": 225,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 36.7958926808299
+  },
+  {
+    "category_set": 226,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 36.79589268082989
+  },
+  {
+    "category_set": 227,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 46.48123106103722
+  },
+  {
+    "category_set": 228,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 41.0339056165878
+  },
+  {
+    "category_set": 229,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 50.95021179442755
+  },
+  {
+    "category_set": 230,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 50.950211794427545
+  },
+  {
+    "category_set": 231,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 60.68588207807337
+  },
+  {
+    "category_set": 232,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 41.73660869695248
+  },
+  {
+    "category_set": 233,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 52.283950344998914
+  },
+  {
+    "category_set": 234,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 52.28395034499892
+  },
+  {
+    "category_set": 235,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 62.42255653733768
+  },
+  {
+    "category_set": 236,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 56.78680347510183
+  },
+  {
+    "category_set": 237,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 67.10599398531832
+  },
+  {
+    "category_set": 238,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 67.10599398531832
+  },
+  {
+    "category_set": 239,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 77.17058137821239
+  },
+  {
+    "category_set": 240,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 47.23414159646867
+  },
+  {
+    "category_set": 241,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 57.478353553105045
+  },
+  {
+    "category_set": 242,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 57.47835355310503
+  },
+  {
+    "category_set": 243,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 67.42013364195451
+  },
+  {
+    "category_set": 244,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 61.524603779597975
+  },
+  {
+    "category_set": 245,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 71.66921392226787
+  },
+  {
+    "category_set": 246,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 71.66921392226786
+  },
+  {
+    "category_set": 247,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 81.61764745452096
+  },
+  {
+    "category_set": 248,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 62.42736780484991
+  },
+  {
+    "category_set": 249,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 73.05265398298323
+  },
+  {
+    "category_set": 250,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 73.05265398298322
+  },
+  {
+    "category_set": 251,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 83.34834074483128
+  },
+  {
+    "category_set": 252,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 77.28799565846009
+  },
+  {
+    "category_set": 253,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 87.76620948454058
+  },
+  {
+    "category_set": 254,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 87.76620948454054
+  },
+  {
+    "category_set": 255,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket"
+    ],
+    "ev": 98.02472577054056
+  },
+  {
+    "category_set": 256,
+    "categories": [
+      "Free Roll"
+    ],
+    "ev": 19.365000000000016
+  },
+  {
+    "category_set": 257,
+    "categories": [
+      "Jumbleberry",
+      "Free Roll"
+    ],
+    "ev": 27.366693447546528
+  },
+  {
+    "category_set": 258,
+    "categories": [
+      "Sugarberry",
+      "Free Roll"
+    ],
+    "ev": 27.366693447546524
+  },
+  {
+    "category_set": 259,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Free Roll"
+    ],
+    "ev": 35.4524282524714
+  },
+  {
+    "category_set": 260,
+    "categories": [
+      "Pickleberry",
+      "Free Roll"
+    ],
+    "ev": 31.11381837060766
+  },
+  {
+    "category_set": 261,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Free Roll"
+    ],
+    "ev": 39.67570618939329
+  },
+  {
+    "category_set": 262,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Free Roll"
+    ],
+    "ev": 39.67570618939328
+  },
+  {
+    "category_set": 263,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Free Roll"
+    ],
+    "ev": 48.14396349483555
+  },
+  {
+    "category_set": 264,
+    "categories": [
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 29.834805314416908
+  },
+  {
+    "category_set": 265,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 39.18873877213681
+  },
+  {
+    "category_set": 266,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 39.18873877213683
+  },
+  {
+    "category_set": 267,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 48.21187856213358
+  },
+  {
+    "category_set": 268,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 43.2957790122164
+  },
+  {
+    "category_set": 269,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 52.661837342112456
+  },
+  {
+    "category_set": 270,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 52.66183734211243
+  },
+  {
+    "category_set": 271,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Free Roll"
+    ],
+    "ev": 61.79449990889994
+  },
+  {
+    "category_set": 272,
+    "categories": [
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 36.19615111848451
+  },
+  {
+    "category_set": 273,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 45.25705336739555
+  },
+  {
+    "category_set": 274,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 45.25705336739555
+  },
+  {
+    "category_set": 275,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 54.031231638536305
+  },
+  {
+    "category_set": 276,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 48.94289686388182
+  },
+  {
+    "category_set": 277,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 58.24855878316984
+  },
+  {
+    "category_set": 278,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 58.24855878316984
+  },
+  {
+    "category_set": 279,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 67.27760542352705
+  },
+  {
+    "category_set": 280,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 48.03864122295513
+  },
+  {
+    "category_set": 281,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 57.836762679476195
+  },
+  {
+    "category_set": 282,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 57.836762679476166
+  },
+  {
+    "category_set": 283,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 67.2192696967345
+  },
+  {
+    "category_set": 284,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 61.93863142932802
+  },
+  {
+    "category_set": 285,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 71.7446581010893
+  },
+  {
+    "category_set": 286,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 71.7446581010893
+  },
+  {
+    "category_set": 287,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Free Roll"
+    ],
+    "ev": 81.23162527657666
+  },
+  {
+    "category_set": 288,
+    "categories": [
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 29.27012172070574
+  },
+  {
+    "category_set": 289,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 38.36163409781569
+  },
+  {
+    "category_set": 290,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 38.36163409781567
+  },
+  {
+    "category_set": 291,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 47.294318115504005
+  },
+  {
+    "category_set": 292,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 42.05218880885277
+  },
+  {
+    "category_set": 293,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 51.40408316319823
+  },
+  {
+    "category_set": 294,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 51.404083163198244
+  },
+  {
+    "category_set": 295,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 60.55449824375506
+  },
+  {
+    "category_set": 296,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 41.65181350004364
+  },
+  {
+    "category_set": 297,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 51.564522306883646
+  },
+  {
+    "category_set": 298,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 51.56452230688364
+  },
+  {
+    "category_set": 299,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 61.171194222020794
+  },
+  {
+    "category_set": 300,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 55.51935663324521
+  },
+  {
+    "category_set": 301,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 65.42517239596
+  },
+  {
+    "category_set": 302,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 65.42517239596002
+  },
+  {
+    "category_set": 303,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 75.06614219000689
+  },
+  {
+    "category_set": 304,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 48.017436862066084
+  },
+  {
+    "category_set": 305,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 57.70311397898292
+  },
+  {
+    "category_set": 306,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 57.7031139789829
+  },
+  {
+    "category_set": 307,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 67.08418203934872
+  },
+  {
+    "category_set": 308,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 61.29639558505869
+  },
+  {
+    "category_set": 309,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 71.07949183704359
+  },
+  {
+    "category_set": 310,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 71.07949183704358
+  },
+  {
+    "category_set": 311,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 80.5925964328128
+  },
+  {
+    "category_set": 312,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 61.020966670601894
+  },
+  {
+    "category_set": 313,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 71.27174523502549
+  },
+  {
+    "category_set": 314,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 71.27174523502546
+  },
+  {
+    "category_set": 315,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 81.14137612600392
+  },
+  {
+    "category_set": 316,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 75.13913513098962
+  },
+  {
+    "category_set": 317,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 85.3258401614992
+  },
+  {
+    "category_set": 318,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 85.32584016149919
+  },
+  {
+    "category_set": 319,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Free Roll"
+    ],
+    "ev": 95.21987660085536
+  },
+  {
+    "category_set": 320,
+    "categories": [
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 22.99065071447878
+  },
+  {
+    "category_set": 321,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 31.486287044640314
+  },
+  {
+    "category_set": 322,
+    "categories": [
+      "Sugarberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 31.48628704464032
+  },
+  {
+    "category_set": 323,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 40.17063801476603
+  },
+  {
+    "category_set": 324,
+    "categories": [
+      "Pickleberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 35.502740438585526
+  },
+  {
+    "category_set": 325,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 44.46618331242828
+  },
+  {
+    "category_set": 326,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 44.46618331242829
+  },
+  {
+    "category_set": 327,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 53.507011925987406
+  },
+  {
+    "category_set": 328,
+    "categories": [
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 34.84617432165961
+  },
+  {
+    "category_set": 329,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 44.36654703192051
+  },
+  {
+    "category_set": 330,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 44.36654703192051
+  },
+  {
+    "category_set": 331,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 53.825981757111876
+  },
+  {
+    "category_set": 332,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 48.610476961052036
+  },
+  {
+    "category_set": 333,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 58.260334677998706
+  },
+  {
+    "category_set": 334,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 58.260334677998706
+  },
+  {
+    "category_set": 335,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 67.85347824635106
+  },
+  {
+    "category_set": 336,
+    "categories": [
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 41.38040151684831
+  },
+  {
+    "category_set": 337,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 50.56764035237808
+  },
+  {
+    "category_set": 338,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 50.567640352378085
+  },
+  {
+    "category_set": 339,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 59.77463661600584
+  },
+  {
+    "category_set": 340,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 54.40474218590172
+  },
+  {
+    "category_set": 341,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 63.9006144618539
+  },
+  {
+    "category_set": 342,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 63.900614461853884
+  },
+  {
+    "category_set": 343,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 73.36951812398675
+  },
+  {
+    "category_set": 344,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 53.98861202273855
+  },
+  {
+    "category_set": 345,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 63.85337691734114
+  },
+  {
+    "category_set": 346,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 63.853376917341144
+  },
+  {
+    "category_set": 347,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 73.60112249619326
+  },
+  {
+    "category_set": 348,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 67.95981439006064
+  },
+  {
+    "category_set": 349,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 77.96121834571214
+  },
+  {
+    "category_set": 350,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 77.96121834571213
+  },
+  {
+    "category_set": 351,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 87.84802624760933
+  },
+  {
+    "category_set": 352,
+    "categories": [
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 34.81314202243561
+  },
+  {
+    "category_set": 353,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 43.94226609113276
+  },
+  {
+    "category_set": 354,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 43.94226609113276
+  },
+  {
+    "category_set": 355,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 53.09516796379735
+  },
+  {
+    "category_set": 356,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 47.95017767459266
+  },
+  {
+    "category_set": 357,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 57.34825453072903
+  },
+  {
+    "category_set": 358,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 57.34825453072906
+  },
+  {
+    "category_set": 359,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 66.74318727207084
+  },
+  {
+    "category_set": 360,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 48.02661992594267
+  },
+  {
+    "category_set": 361,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 57.877403339724054
+  },
+  {
+    "category_set": 362,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 57.87740333972406
+  },
+  {
+    "category_set": 363,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 67.6121460786696
+  },
+  {
+    "category_set": 364,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 62.000138497287594
+  },
+  {
+    "category_set": 365,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 71.9093175325924
+  },
+  {
+    "category_set": 366,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 71.9093175325924
+  },
+  {
+    "category_set": 367,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 81.7488025298275
+  },
+  {
+    "category_set": 368,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 54.45439075948174
+  },
+  {
+    "category_set": 369,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 64.02598624999436
+  },
+  {
+    "category_set": 370,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 64.02598624999438
+  },
+  {
+    "category_set": 371,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 73.54624648689044
+  },
+  {
+    "category_set": 372,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 67.85277649300863
+  },
+  {
+    "category_set": 373,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 77.59653002046967
+  },
+  {
+    "category_set": 374,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 77.59653002046966
+  },
+  {
+    "category_set": 375,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 87.30086156854279
+  },
+  {
+    "category_set": 376,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 68.03457059589113
+  },
+  {
+    "category_set": 377,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 78.12990640855548
+  },
+  {
+    "category_set": 378,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 78.12990640855547
+  },
+  {
+    "category_set": 379,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 88.10151936549074
+  },
+  {
+    "category_set": 380,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 82.12717928312998
+  },
+  {
+    "category_set": 381,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 92.29844058337564
+  },
+  {
+    "category_set": 382,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 92.29844058337561
+  },
+  {
+    "category_set": 383,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Free Roll"
+    ],
+    "ev": 102.36871198776846
+  },
+  {
+    "category_set": 384,
+    "categories": [
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 31.937049531056118
+  },
+  {
+    "category_set": 385,
+    "categories": [
+      "Jumbleberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 41.979611959274244
+  },
+  {
+    "category_set": 386,
+    "categories": [
+      "Sugarberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 41.979611959274244
+  },
+  {
+    "category_set": 387,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 51.377171364711344
+  },
+  {
+    "category_set": 388,
+    "categories": [
+      "Pickleberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 46.15919240779924
+  },
+  {
+    "category_set": 389,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 55.949046871629506
+  },
+  {
+    "category_set": 390,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 55.94904687162951
+  },
+  {
+    "category_set": 391,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 65.2234369629132
+  },
+  {
+    "category_set": 392,
+    "categories": [
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 44.26072076215069
+  },
+  {
+    "category_set": 393,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 55.04289676132304
+  },
+  {
+    "category_set": 394,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 55.04289676132304
+  },
+  {
+    "category_set": 395,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 65.03123063457788
+  },
+  {
+    "category_set": 396,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 59.48560365900858
+  },
+  {
+    "category_set": 397,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 69.78506723329754
+  },
+  {
+    "category_set": 398,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 69.78506723329754
+  },
+  {
+    "category_set": 399,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 79.5281377519557
+  },
+  {
+    "category_set": 400,
+    "categories": [
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 50.93047453168633
+  },
+  {
+    "category_set": 401,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.290551729934975
+  },
+  {
+    "category_set": 402,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.29055172993498
+  },
+  {
+    "category_set": 403,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 70.90995821997967
+  },
+  {
+    "category_set": 404,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 65.46695728760432
+  },
+  {
+    "category_set": 405,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.6033828184476
+  },
+  {
+    "category_set": 406,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.60338281844761
+  },
+  {
+    "category_set": 407,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 85.21387800784923
+  },
+  {
+    "category_set": 408,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 63.90557077725055
+  },
+  {
+    "category_set": 409,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 74.66099900536393
+  },
+  {
+    "category_set": 410,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 74.66099900536398
+  },
+  {
+    "category_set": 411,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 84.73929827096842
+  },
+  {
+    "category_set": 412,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 79.13943189509725
+  },
+  {
+    "category_set": 413,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 89.64600188714192
+  },
+  {
+    "category_set": 414,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 89.64600188714195
+  },
+  {
+    "category_set": 415,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 99.62424661092481
+  },
+  {
+    "category_set": 416,
+    "categories": [
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 43.733870223416034
+  },
+  {
+    "category_set": 417,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 54.247227445000725
+  },
+  {
+    "category_set": 418,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 54.24722744500071
+  },
+  {
+    "category_set": 419,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 64.12083284074573
+  },
+  {
+    "category_set": 420,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 58.40795103244936
+  },
+  {
+    "category_set": 421,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 68.64209672712468
+  },
+  {
+    "category_set": 422,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 68.64209672712471
+  },
+  {
+    "category_set": 423,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 78.36978329404728
+  },
+  {
+    "category_set": 424,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 57.367815289840244
+  },
+  {
+    "category_set": 425,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 68.33240762171542
+  },
+  {
+    "category_set": 426,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 68.33240762171535
+  },
+  {
+    "category_set": 427,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 78.65821245036814
+  },
+  {
+    "category_set": 428,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 72.742690869279
+  },
+  {
+    "category_set": 429,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 83.33959713260965
+  },
+  {
+    "category_set": 430,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 83.33959713260967
+  },
+  {
+    "category_set": 431,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 93.43317465428039
+  },
+  {
+    "category_set": 432,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 64.03183340625309
+  },
+  {
+    "category_set": 433,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 74.74529052226404
+  },
+  {
+    "category_set": 434,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 74.74529052226403
+  },
+  {
+    "category_set": 435,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 84.7999010263157
+  },
+  {
+    "category_set": 436,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 78.75341540982241
+  },
+  {
+    "category_set": 437,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 89.20983209174503
+  },
+  {
+    "category_set": 438,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 89.209832091745
+  },
+  {
+    "category_set": 439,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 99.18482903763346
+  },
+  {
+    "category_set": 440,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 77.89402261369462
+  },
+  {
+    "category_set": 441,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 88.94125011758062
+  },
+  {
+    "category_set": 442,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 88.94125011758062
+  },
+  {
+    "category_set": 443,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 99.35324319243404
+  },
+  {
+    "category_set": 444,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 93.16846449627224
+  },
+  {
+    "category_set": 445,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 103.92321310346257
+  },
+  {
+    "category_set": 446,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 103.92321310346254
+  },
+  {
+    "category_set": 447,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 114.19242693739999
+  },
+  {
+    "category_set": 448,
+    "categories": [
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 37.89533141408799
+  },
+  {
+    "category_set": 449,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 47.60411990566338
+  },
+  {
+    "category_set": 450,
+    "categories": [
+      "Sugarberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 47.6041199056634
+  },
+  {
+    "category_set": 451,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 57.129720724304384
+  },
+  {
+    "category_set": 452,
+    "categories": [
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 52.06318374660279
+  },
+  {
+    "category_set": 453,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.77269983673047
+  },
+  {
+    "category_set": 454,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.77269983673046
+  },
+  {
+    "category_set": 455,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 71.33650558664932
+  },
+  {
+    "category_set": 456,
+    "categories": [
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 50.92893415010858
+  },
+  {
+    "category_set": 457,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.31118275887756
+  },
+  {
+    "category_set": 458,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 61.3111827588776
+  },
+  {
+    "category_set": 459,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 71.40695690981975
+  },
+  {
+    "category_set": 460,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 65.95323082957414
+  },
+  {
+    "category_set": 461,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 76.17865926913679
+  },
+  {
+    "category_set": 462,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 76.1786592691368
+  },
+  {
+    "category_set": 463,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 86.21226993451607
+  },
+  {
+    "category_set": 464,
+    "categories": [
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 57.684085796104014
+  },
+  {
+    "category_set": 465,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 67.65975004313046
+  },
+  {
+    "category_set": 466,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 67.65975004313047
+  },
+  {
+    "category_set": 467,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 77.43405849021435
+  },
+  {
+    "category_set": 468,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 72.0028133150979
+  },
+  {
+    "category_set": 469,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 82.0454397739725
+  },
+  {
+    "category_set": 470,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 82.04543977397252
+  },
+  {
+    "category_set": 471,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 91.91688818426924
+  },
+  {
+    "category_set": 472,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 71.05177988491859
+  },
+  {
+    "category_set": 473,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 81.52416009520508
+  },
+  {
+    "category_set": 474,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 81.5241600952051
+  },
+  {
+    "category_set": 475,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 91.77282072088721
+  },
+  {
+    "category_set": 476,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 86.06409576626247
+  },
+  {
+    "category_set": 477,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.52557439164633
+  },
+  {
+    "category_set": 478,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.52557439164634
+  },
+  {
+    "category_set": 479,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 106.77749613481322
+  },
+  {
+    "category_set": 480,
+    "categories": [
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 50.92822552174269
+  },
+  {
+    "category_set": 481,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 60.96615988565667
+  },
+  {
+    "category_set": 482,
+    "categories": [
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 60.96615988565663
+  },
+  {
+    "category_set": 483,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 70.74797223225944
+  },
+  {
+    "category_set": 484,
+    "categories": [
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 65.36819094889783
+  },
+  {
+    "category_set": 485,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.35048974408011
+  },
+  {
+    "category_set": 486,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.35048974408008
+  },
+  {
+    "category_set": 487,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 85.15781274795485
+  },
+  {
+    "category_set": 488,
+    "categories": [
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 64.98561760848592
+  },
+  {
+    "category_set": 489,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.52076019639017
+  },
+  {
+    "category_set": 490,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 75.52076019639014
+  },
+  {
+    "category_set": 491,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 85.78506299120197
+  },
+  {
+    "category_set": 492,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 80.07113894043442
+  },
+  {
+    "category_set": 493,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 90.46702551961404
+  },
+  {
+    "category_set": 494,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 90.46702551961407
+  },
+  {
+    "category_set": 495,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 100.66126164984465
+  },
+  {
+    "category_set": 496,
+    "categories": [
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 71.665954345773
+  },
+  {
+    "category_set": 497,
+    "categories": [
+      "Jumbleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 81.90353229190413
+  },
+  {
+    "category_set": 498,
+    "categories": [
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 81.90353229190411
+  },
+  {
+    "category_set": 499,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 91.92140959270132
+  },
+  {
+    "category_set": 500,
+    "categories": [
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 86.15050190465736
+  },
+  {
+    "category_set": 501,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.36490817316219
+  },
+  {
+    "category_set": 502,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.36490817316215
+  },
+  {
+    "category_set": 503,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 106.4120032645546
+  },
+  {
+    "category_set": 504,
+    "categories": [
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 85.84105983949469
+  },
+  {
+    "category_set": 505,
+    "categories": [
+      "Jumbleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.49503111529276
+  },
+  {
+    "category_set": 506,
+    "categories": [
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 96.49503111529275
+  },
+  {
+    "category_set": 507,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 106.89624900698995
+  },
+  {
+    "category_set": 508,
+    "categories": [
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 100.83800621884473
+  },
+  {
+    "category_set": 509,
+    "categories": [
+      "Jumbleberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 111.42440402090963
+  },
+  {
+    "category_set": 510,
+    "categories": [
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 111.4244040209096
+  },
+  {
+    "category_set": 511,
+    "categories": [
+      "Jumbleberry",
+      "Sugarberry",
+      "Pickleberry",
+      "Moonberry",
+      "Basket of Three",
+      "Basket of Four",
+      "Basket of Five",
+      "Mixed Basket",
+      "Free Roll"
+    ],
+    "ev": 121.80254555138508
+  }
+]
