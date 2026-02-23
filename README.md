@@ -2,6 +2,12 @@
 
 An optimal strategy solver for the dice game **Jumbleberry Fields**, using dynamic programming to compute expected values and recommend the best play at any game state.
 
+## Live Solver
+
+**[Try it in your browser →](https://iadams749.github.io/JBFieldsSolver/)**
+
+The solver runs entirely client-side via WebAssembly — no server required. Enter your current dice, rolls remaining, and which categories you have left, and it instantly recommends the optimal play along with the expected game score.
+
 ## Game Overview
 
 Jumbleberry Fields is a Yahtzee-style dice game with unique scoring rules:
