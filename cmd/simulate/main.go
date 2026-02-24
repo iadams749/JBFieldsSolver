@@ -42,8 +42,17 @@ func main() {
 	scores := make([]int, *numGames)
 	start := time.Now()
 
+	// Track best game
+	bestScore := 0
+	var bestBreakdown []categoryResult
+
 	for i := range *numGames {
-		scores[i] = simulateGame(rng, table)
+		score, breakdown := simulateGame(rng, table)
+		scores[i] = score
+		if score > bestScore {
+			bestScore = score
+			bestBreakdown = breakdown
+		}
 		if (i+1)%(*numGames/10) == 0 {
 			elapsed := time.Since(start)
 			fmt.Printf("  %d/%d games  (%v elapsed)\n", i+1, *numGames, elapsed.Round(time.Millisecond))
@@ -100,6 +109,15 @@ func main() {
 	fmt.Printf("Max score:        %d\n", maxScore)
 	fmt.Println()
 
+	// Print best game breakdown
+	fmt.Println("Best game breakdown:")
+	for i, cr := range bestBreakdown {
+		fmt.Printf("  Round %d:  %-18s  scored %3d  with %s\n",
+			i+1, cr.category, cr.score, formatDice(cr.dice))
+	}
+	fmt.Printf("  %-26s  = %d\n", "TOTAL", bestScore)
+	fmt.Println()
+
 	// Print histogram
 	fmt.Println("Score distribution:")
 	minBucket := (minScore / bucketSize) * bucketSize
@@ -123,10 +141,19 @@ func main() {
 	}
 }
 
-// simulateGame plays one full game using optimal strategy, returning the total score.
-func simulateGame(rng *rand.Rand, table *ev.Table) int {
+// categoryResult records what dice were scored in a category for one game.
+type categoryResult struct {
+	category game.Category
+	dice     game.Dice
+	score    int
+}
+
+// simulateGame plays one full game using optimal strategy,
+// returning the total score and the per-category breakdown.
+func simulateGame(rng *rand.Rand, table *ev.Table) (int, []categoryResult) {
 	cs := game.AllCategories
 	totalScore := 0
+	var breakdown []categoryResult
 
 	for round := 0; round < int(game.NumCategories); round++ {
 		dice := rollAllDice(rng)
@@ -149,10 +176,15 @@ func simulateGame(rng *rand.Rand, table *ev.Table) int {
 		cat := rec.BestAction.Category
 		score := game.Score(dice, cat)
 		totalScore += score
+		breakdown = append(breakdown, categoryResult{
+			category: cat,
+			dice:     dice,
+			score:    score,
+		})
 		cs = cs.Remove(cat)
 	}
 
-	return totalScore
+	return totalScore, breakdown
 }
 
 // rollAllDice rolls 5 dice and returns the result.
@@ -181,4 +213,22 @@ func rollOneDie(rng *rand.Rand) game.Berry {
 		}
 	}
 	return game.Pest // rounding safety
+}
+
+// formatDice returns a human-readable string for a dice outcome, e.g. "3M 2P".
+func formatDice(d game.Dice) string {
+	letters := [game.NumBerryTypes]string{"J", "S", "P", "M", "X"}
+	result := ""
+	for b := game.Berry(0); b < game.NumBerryTypes; b++ {
+		if d[b] > 0 {
+			if result != "" {
+				result += " "
+			}
+			result += fmt.Sprintf("%d%s", d[b], letters[b])
+		}
+	}
+	if result == "" {
+		return "(empty)"
+	}
+	return result
 }
