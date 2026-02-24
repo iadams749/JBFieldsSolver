@@ -241,4 +241,4 @@ Individual category EVs vary by remaining set composition—strategic category o
 
 ## License
 
-This project is provided as-is for educational and entertainment purposes.
+MIT — see [LICENSE](LICENSE).

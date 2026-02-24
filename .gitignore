@@ -1,1 +1,8 @@
+# Tool version pins
 .go-version
+
+# Compiled binaries
+jbf-cli
+jbf-api
+jbf-simulate
+simulate
