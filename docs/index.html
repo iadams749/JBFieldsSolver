@@ -165,7 +165,9 @@
   /* Categories */
   .cat-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    grid-template-rows: repeat(3, auto);
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
     gap: 0.4rem;
   }
 
@@ -497,7 +499,7 @@
   @media (max-width: 500px) {
     .dice-slot { width: 48px; height: 48px; font-size: 1.2rem; }
     .dice-labels span { width: 48px; }
-    .cat-grid { grid-template-columns: 1fr 1fr; }
+    .cat-grid { grid-template-rows: repeat(5, auto); grid-auto-columns: 1fr; }
     .info-tooltip { width: 280px; }
   }
 </style>
