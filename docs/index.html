@@ -102,6 +102,7 @@
     font-size: 1.4rem;
     font-weight: 700;
     text-align: center;
+    text-align-last: center;
     cursor: pointer;
     transition: border-color 0.15s, background 0.15s;
     -webkit-appearance: none;
@@ -459,7 +460,8 @@
     border-bottom: 6px solid rgba(255,255,255,0.12);
   }
 
-  .info-wrapper:hover .info-tooltip {
+  .info-wrapper:hover .info-tooltip,
+  .info-wrapper.active .info-tooltip {
     display: block;
   }
 
@@ -609,6 +611,19 @@
 // ── State ──
 let wasmReady = false;
 let rollsLeft = 2;
+
+// ── Info tooltip (tap to toggle on mobile) ──
+const infoWrapper = document.querySelector('.info-wrapper');
+const infoIcon = document.querySelector('.info-icon');
+infoIcon.addEventListener('click', (e) => {
+  e.stopPropagation();
+  infoWrapper.classList.toggle('active');
+});
+document.addEventListener('click', (e) => {
+  if (!infoWrapper.contains(e.target)) {
+    infoWrapper.classList.remove('active');
+  }
+});
 
 // ── Dice selects ──
 const diceSlots = document.querySelectorAll('.dice-slot');
